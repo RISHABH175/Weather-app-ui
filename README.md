@@ -1,1 +1,1 @@
-# Weather-app-ui
+# Weather-app-api
